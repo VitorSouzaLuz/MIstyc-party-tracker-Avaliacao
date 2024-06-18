@@ -1,5 +1,1 @@
-"# MysticPartyTracker" 
-"# MysticPartyTracker" 
-"# MysticParty" 
-"# Mystic_Party_PAM" 
-"# MIstyc-party-tracker-Avaliacao" 
+"# Avaliacao-mystic" 
